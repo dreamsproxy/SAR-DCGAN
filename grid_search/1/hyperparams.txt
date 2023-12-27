@@ -1,0 +1,17 @@
+
+        img_size = 128
+        latent_dim = 128
+
+        batch_size = 64
+
+        num_epochs = 1000
+
+        generator_learning_rate = 0.0002
+
+        generator_decay = 0.0004
+
+        generator_beta_1 = 0.5
+
+        generator_amsgrad = True
+
+        
